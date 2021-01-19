@@ -1,0 +1,11 @@
+C:\Users\kulev\source\repos\Lista\obj\Debug\netcoreapp3.1\Lista.csprojAssemblyReference.cache
+C:\Users\kulev\source\repos\Lista\obj\Debug\netcoreapp3.1\Lista.AssemblyInfoInputs.cache
+C:\Users\kulev\source\repos\Lista\obj\Debug\netcoreapp3.1\Lista.AssemblyInfo.cs
+C:\Users\kulev\source\repos\Lista\bin\Debug\netcoreapp3.1\Lista.exe
+C:\Users\kulev\source\repos\Lista\bin\Debug\netcoreapp3.1\Lista.deps.json
+C:\Users\kulev\source\repos\Lista\bin\Debug\netcoreapp3.1\Lista.runtimeconfig.json
+C:\Users\kulev\source\repos\Lista\bin\Debug\netcoreapp3.1\Lista.runtimeconfig.dev.json
+C:\Users\kulev\source\repos\Lista\bin\Debug\netcoreapp3.1\Lista.dll
+C:\Users\kulev\source\repos\Lista\bin\Debug\netcoreapp3.1\Lista.pdb
+C:\Users\kulev\source\repos\Lista\obj\Debug\netcoreapp3.1\Lista.dll
+C:\Users\kulev\source\repos\Lista\obj\Debug\netcoreapp3.1\Lista.pdb
